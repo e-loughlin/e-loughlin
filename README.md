@@ -1,5 +1,14 @@
 ### Hello 🙋‍♂️ 🍁
 
+I am a:
+- Software Engineer at Rockport Networks :computer:
+- MSc Student (OMSCS) at Georgia Tech :school_satchel:
+- Former Structural Engineer :bridge_at_night:
+
+Things I like:
+- Rock Climbing and Outdoors :sunrise_over_mountains:
+- Traveling! :earth_americas:
+
 <!--
 **emloughl/emloughl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
