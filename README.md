@@ -2,7 +2,7 @@
 
 I am a:
 - Software Engineer at Rockport Networks :computer:
-- MSc Student (OMSCS) at Georgia Tech :school_satchel:
+- MSc Student (OMSCS) at Georgia Tech :books:
 - Former Structural Engineer :bridge_at_night:
 
 Things I like:
