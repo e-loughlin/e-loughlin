@@ -1,7 +1,7 @@
 ### Hello 🙋‍♂️ 🍁
 
 I am a:
-- Software Engineer at Rockport Networks :computer:
+- Software Engineer :computer:
 - MSc Student (OMSCS) at Georgia Tech (Machine Learning) :books:
 - Former Structural Engineer :bridge_at_night:
 
