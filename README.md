@@ -1,4 +1,4 @@
-### Hello 🙋‍♂️ 🍁
+### Hello 🍁
 
 I am a:
 - Software Engineer at [Highlight](https://www.letshighlight.com/) :computer: 🌈
