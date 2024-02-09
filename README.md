@@ -1,6 +1,6 @@
 ### Hello 🍁
 
-My portfolio site: https://3v4n.xyz
+Portfolio: https://3v4n.xyz
 
 I am a:
 - Software Engineer at [Highlight](https://www.letshighlight.com/) :computer:
