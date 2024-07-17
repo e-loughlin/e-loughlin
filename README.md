@@ -3,7 +3,7 @@
 Portfolio: https://3v4n.xyz
 
 I am a:
-- Software Engineer at [Highlight](https://www.letshighlight.com/) :computer:
+- Software Engineer with a Machine Learning / AI Background
 - MSc Alumnus at Georgia Tech (Machine Learning) :floppy_disk:
 - Former Structural Engineer :bridge_at_night:
 - Nerd 🤓
